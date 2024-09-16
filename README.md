@@ -6,3 +6,4 @@ As someone not from CS background i found learning programming by such a powerfu
 
 ## Chapters
 - [chapter 2: C++ Programming Basics ](./chap-02/)
+- [Loops and Decisions ](./chap-03/)
