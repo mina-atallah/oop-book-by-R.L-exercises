@@ -18,7 +18,7 @@ int main() {
 
     cout << "Enter first fraction: ";
     cin >> a >> frac >> b;
-    cout << "Enter first fraction: ";
+    cout << "Enter second fraction: ";
     cin >> c >> frac >> d;
 
     cout << "Sum = " << ((a*d) + (b*c)) << "/" << (b*d) << endl;
