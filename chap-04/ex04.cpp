@@ -12,7 +12,7 @@
 struct stEmployee 
 {
     int number;
-    unsigned int compensation;
+    float compensation;
 };
 
  int main()
@@ -26,10 +26,10 @@ struct stEmployee
     cout << "Enter employee number, and compensation: ";
     cin >> emp3.number >> emp3.compensation;
 
-    cout << right << setw(6) << "Number" << setw(16) << "Compensation" << endl;
-    cout << right << setw(6) << emp1.number << setw(16) << emp1.compensation << endl;
-    cout << right << setw(6) << emp2.number << setw(16) << emp2.compensation << endl;
-    cout << right << setw(6) << emp3.number << setw(16) << emp3.compensation << endl;
+    cout << right << setw(6) << "Number" << setw(25) << "Compensation" << endl;
+    cout << right << setw(6) << emp1.number << fixed << setprecision(2) << setw(25) << emp1.compensation << endl;
+    cout << right << setw(6) << emp2.number << fixed << setprecision(2) << setw(25) << emp2.compensation << endl;
+    cout << right << setw(6) << emp3.number << fixed << setprecision(2) << setw(25) << emp3.compensation << endl;
 
     return 0;
  }
