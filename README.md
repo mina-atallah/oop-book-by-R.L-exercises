@@ -8,3 +8,4 @@ As someone not from CS background i found learning programming by such a powerfu
 - [chapter 02: C++ Programming Basics ](/chap-02/)
 - [chapter 03: Loops and Decisions ](/chap-03/)
 - [chapter 04: Structures ](/chap-04/)
+- [chapter 05: Functions ](/chap-05/)
