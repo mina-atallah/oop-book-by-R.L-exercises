@@ -10,3 +10,4 @@ As someone not from CS background i found learning programming by such a powerfu
 - [chapter 04: Structures ](/chap-04/)
 - [chapter 05: Functions ](/chap-05/)
 - [chapter 06: Objects and Classes ](/chap-06/)
+- [chapter 07: Arrays and Strings ](/chap-07/)
